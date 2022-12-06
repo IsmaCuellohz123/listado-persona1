@@ -1,0 +1,1 @@
+{"ast":null,"code":"var LoggingService = /** @class */function () {\n  function LoggingService() {}\n  LoggingService.prototype.enviaMensajeAConsola = function (mensaje) {\n    console.log(mensaje);\n  };\n  return LoggingService;\n}();\nexport { LoggingService };","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
